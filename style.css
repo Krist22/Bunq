@@ -1,0 +1,82 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Montserrat Bold, Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+svg{
+    color: #ffffff;
+}
+img{
+    border-radius: 10px;
+}
+.btn1 {
+    background-color: orange;
+    color: #ffffff;
+    height: 50px;
+    border-radius: 25px;
+    padding-block: 13px;
+}
+.ll{
+    border: 1px solid red;
+}
+.btn2{
+    background-color: #ffffff;
+    color: #000;
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    padding-block: 13px;
+    border: solid #ffffff;
+    font-weight: bold;
+}
+.text{
+    color: dimgray;
+}
+.lo{
+    margin-top: 3cm;
+}
+.listed{
+    box-shadow: inset 100px 100px 500px black, 100px 100px 500px #000;
+}
+.na{
+    box-shadow: inset 100px 100px 500px black, 100px 100px 500px #000;
+    border-radius: 20px;
+}
+.l1 {
+    padding-block: 20px;
+    box-shadow: inset 1px 1px 90px rgb(250, 176, 38), 0 0 1000px transparent;
+    border-radius: 20px;
+    height: 3cm;
+    width: 3cm;
+    color: orange;
+}
+.l2 {
+    box-shadow: inset 1px 1px 90px blue, 0 0 1000px white;
+    padding-block: 20px;
+    border-radius: 20px;
+    height: 3cm;
+    width: 3cm;
+    color: blue;
+}
+.l3 {
+    box-shadow: inset 1px 1px 90px green, 0 0 1000px white;
+    padding-block: 20px;
+    border-radius: 20px;
+    height: 3cm;
+    width: 3cm;
+    color: green;
+}
+
+.form {
+    margin-top: 5cm;
+    color: white;
+    margin-bottom: 2cm;
+    padding: auto;
+}
+.footer{
+    background-color: black;
+}
